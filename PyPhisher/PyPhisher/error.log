@@ -1,0 +1,5 @@
+HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Max retries exceeded with url: /KasRoudra/PyPhisher/main/files/pyproject.toml (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7efbfc75b150>, 'Connection to raw.githubusercontent.com timed out. (connect timeout=None)'))
+Invalid URL '': No scheme supplied. Perhaps you meant https://?
+HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Max retries exceeded with url: /KasRoudra/PyPhisher/main/files/pyproject.toml (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f27076575d0>, 'Connection to raw.githubusercontent.com timed out. (connect timeout=None)'))
+HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Max retries exceeded with url: /KasRoudra/PyPhisher/main/files/pyproject.toml (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f4633a4f4d0>, 'Connection to raw.githubusercontent.com timed out. (connect timeout=None)'))
+Invalid URL 'www.instagram.com': No scheme supplied. Perhaps you meant https://www.instagram.com?

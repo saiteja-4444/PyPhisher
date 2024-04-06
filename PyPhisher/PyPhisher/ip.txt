@@ -1,0 +1,30 @@
+IP                   : 49.37.151.22
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.23.20.0
+Version              : 
+Browser              : Unknown Browser
+Location             : Hyderabad, India, Asia
+GeoLocation(lat, lon): 17.385044, 78.486671
+Currency             : Indian Rupee
+
+IP                   : 49.37.151.22
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Hyderabad, India, Asia
+GeoLocation(lat, lon): 17.385044, 78.486671
+Currency             : Indian Rupee
+
+IP                   : 185.220.101.18
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Android 10; Mobile; rv:102.0) Gecko/102.0 Firefox/102.0
+Version              : Mobile;
+Browser              : Handheld Browser
+Location             : Brandenburg, Germany, Europe
+GeoLocation(lat, lon): 52.4125287, 12.5316444
+Currency             : Euro
+
