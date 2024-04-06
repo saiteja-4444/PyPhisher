@@ -1,19 +1,4 @@
-# -*- coding: UTF-8 -*-
-# ToolName   : PyPhisher
-# Author     : KasRoudra
-# Version    : 2.1
-# License    : MIT
-# Copyright  : KasRoudra (2021-2023)
-# Github     : https://github.com/KasRoudra
-# Contact    : https://t.me/KasRoudra
-# Description: PyPhisher is a phishing tool in python
-# Tags       : Facebook Phishing, Github Phishing, Instagram Phishing and 70+ other sites available
-# 1st Commit : 08/08/2021
-# Language   : Python
-# Portable file/script
-# If you copy open source code, consider giving credit
-# Credits    : Zphisher, MaskPhish, AdvPhishing
-# Env        : #!/usr/bin/env python
+
 
 """
 MIT License
